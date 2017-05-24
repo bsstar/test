@@ -1,2 +1,4 @@
-rwerrewrw
-htyuyuyt
+<?php
+ phpinfo();
+ 
+ ?>
